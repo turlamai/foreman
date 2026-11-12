@@ -1,5 +1,7 @@
 #lang info
 
+(define name "foreman")
+
 (define collection 'multi)
 (define deps
   '(["base" #:version "9.0"]
