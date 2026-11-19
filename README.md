@@ -1,5 +1,7 @@
 # Foreman
 
+**Support:** [Issues & feedback](https://github.com/turlamai/foreman/issues) · [Development policy](https://github.com/turlamai/turlamai.github.io/blob/master/PORTFOLIO.md)
+
 **A production rule system for Racket — declarative patterns, procedural right-hand sides.**
 
 [![CI](https://github.com/turlamai/foreman/actions/workflows/ci.yml/badge.svg)](https://github.com/turlamai/foreman/actions/workflows/ci.yml) ![Racket](https://img.shields.io/badge/Racket-9F1D20?logo=racket&logoColor=white) [![License](https://img.shields.io/badge/license-Apache--2.0-blue)](LICENSE)
